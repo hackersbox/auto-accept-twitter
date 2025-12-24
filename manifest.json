@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AutoApprove - X Followers",
   "version": "1.0.0",
-  "description": "Navigate to the Follower Requests page to safely auto-accept requests. Includes human-like delays, auto-scroll, and auto-refresh. Contact: @hroh_ on IG.",
+  "description": "Safely auto-approve X follower requests. Features human-like pacing, auto-scroll, and auto-refresh. Contact: @hroh_ on IG.",
   "permissions": [],
   "host_permissions": [
     "*://*.twitter.com/*",
